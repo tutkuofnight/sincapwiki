@@ -11,12 +11,19 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^16.0.0",
+    "@remix-run/css-bundle": "^2.15.0",
     "@remix-run/node": "^2.14.0",
     "@remix-run/react": "^2.14.0",
     "@remix-run/serve": "^2.14.0",
+    "@types/lowdb": "^1.0.15",
+    "contentful": "^11.2.4",
     "isbot": "^4.1.0",
+    "lowdb": "^7.0.1",
+    "lucide-react": "^0.468.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "swiper": "^11.1.15"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.14.0",

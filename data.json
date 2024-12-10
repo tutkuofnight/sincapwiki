@@ -1,0 +1,104 @@
+[
+    {
+      "name": "Eastern Gray Squirrel",
+      "summary": "A common North American squirrel with gray fur and a bushy tail.",
+      "description": "The Eastern Gray Squirrel (Sciurus carolinensis) is a highly adaptable and common species found primarily in forests, suburban areas, and urban environments across North America. Known for its gray coat and bushy tail, this squirrel can vary in color, with some individuals having a completely black or albino appearance. They are active during the day and are known for their ability to store food in the form of nuts and seeds, which they bury in various locations to survive through the winter.",
+      "cousins": [
+        "Fox Squirrel",
+        "Red Squirrel",
+        "Douglas Squirrel",
+        "Southern Flying Squirrel",
+        "Northern Flying Squirrel"
+      ]
+    },
+    {
+      "name": "Fox Squirrel",
+      "summary": "The largest tree squirrel in North America, often with a reddish-brown coat.",
+      "description": "The Fox Squirrel (Sciurus niger) is the largest species of tree squirrel in North America. Typically characterized by its reddish-brown or orange-brown fur and a lighter-colored underside, this species is more commonly found in open woodlands and rural areas. Fox Squirrels are known for their large size and distinctive bushy tails. They are less agile than the Eastern Gray Squirrel but are excellent climbers and are often seen foraging for nuts and seeds.",
+      "cousins": [
+        "Eastern Gray Squirrel",
+        "Red Squirrel",
+        "Southern Flying Squirrel",
+        "Douglas Squirrel",
+        "Western Gray Squirrel"
+      ]
+    },
+    {
+      "name": "Red Squirrel",
+      "summary": "A small, energetic squirrel known for its reddish fur and high activity levels.",
+      "description": "The Red Squirrel (Tamiasciurus hudsonicus) is a small and energetic species commonly found in coniferous forests across North America. Characterized by its reddish coat, white underbelly, and small size, the Red Squirrel is often seen dashing up trees and storing food for the winter. Unlike the Eastern Gray Squirrel, Red Squirrels are territorial and are known to defend their food caches aggressively. They primarily feed on pine seeds, but will also eat berries and fungi when available.",
+      "cousins": [
+        "Eastern Gray Squirrel",
+        "Fox Squirrel",
+        "Douglas Squirrel",
+        "Northern Flying Squirrel",
+        "Southern Flying Squirrel"
+      ]
+    },
+    {
+      "name": "Southern Flying Squirrel",
+      "summary": "A nocturnal squirrel with the ability to glide using flaps of skin between its limbs.",
+      "description": "The Southern Flying Squirrel (Glaucomys volans) is a small, nocturnal species known for its remarkable gliding ability. This squirrel has a membrane of skin between its forelegs and hind legs, allowing it to glide from tree to tree in search of food. Found in eastern North America, the Southern Flying Squirrel primarily feeds on nuts, berries, and fungi. While they are not typically seen during the day, they are abundant in wooded areas and can often be found nesting in tree cavities.",
+      "cousins": [
+        "Northern Flying Squirrel",
+        "Fox Squirrel",
+        "Eastern Gray Squirrel",
+        "Red Squirrel"
+      ]
+    },
+    {
+      "name": "Northern Flying Squirrel",
+      "summary": "A cousin of the Southern Flying Squirrel, native to northern parts of North America.",
+      "description": "The Northern Flying Squirrel (Glaucomys sabrinus) is a nocturnal species native to the boreal forests of North America. Similar to the Southern Flying Squirrel, it uses a skin membrane to glide between trees, which aids in foraging and escaping predators. The Northern Flying Squirrel is typically found in older, dense forests and feeds primarily on nuts, seeds, fungi, and even insects. It is highly dependent on tree cavities for nesting and is more rare to observe than its southern counterpart.",
+      "cousins": [
+        "Southern Flying Squirrel",
+        "Eastern Gray Squirrel",
+        "Red Squirrel",
+        "Fox Squirrel"
+      ]
+    },
+    {
+      "name": "Western Gray Squirrel",
+      "summary": "A larger squirrel with gray fur and a bushy tail, found in the western United States.",
+      "description": "The Western Gray Squirrel (Sciurus griseus) is native to the western United States, particularly in California, Oregon, and Washington. It is larger than the Eastern Gray Squirrel and has a silvery-gray coat, with a white or light-colored underbelly. Western Gray Squirrels are arboreal creatures and prefer coniferous forests. They are primarily herbivores, feeding on nuts, acorns, and seeds. These squirrels are also known for being cautious and more secretive compared to their eastern counterparts.",
+      "cousins": [
+        "Fox Squirrel",
+        "Eastern Gray Squirrel",
+        "Douglas Squirrel",
+        "Red Squirrel"
+      ]
+    },
+    {
+      "name": "Douglas Squirrel",
+      "summary": "A small squirrel with a reddish-brown coat, commonly found in Pacific coastal regions.",
+      "description": "The Douglas Squirrel (Tamiasciurus douglasii), also known as the Chickaree, is a small, energetic squirrel found in the Pacific coastal regions of North America, particularly in forests of Oregon and California. Characterized by its reddish-brown coat and white belly, this squirrel is often seen foraging for seeds, nuts, and pine cones. The Douglas Squirrel is highly territorial and can be very vocal, making a variety of alarm calls to warn of potential threats. It is most active during the daytime and is a key part of its ecosystem.",
+      "cousins": [
+        "Red Squirrel",
+        "Fox Squirrel",
+        "Eastern Gray Squirrel",
+        "Western Gray Squirrel"
+      ]
+    },
+    {
+      "name": "Bristlecone Squirrel",
+      "summary": "A rare squirrel species endemic to the high-altitude bristlecone pine forests of California.",
+      "description": "The Bristlecone Squirrel (Sciurus taterillus) is a rare, endemic species found only in the high-altitude regions of the White Mountains in California. It is closely related to the Eastern Gray Squirrel but is smaller and has a more muted color palette, with grayish-brown fur and a bushy tail. Bristlecone Squirrels live in the bristlecone pine forests, often nesting in the trees and feeding on seeds from the ancient pines. Due to its limited range and specialized habitat, the Bristlecone Squirrel is not commonly seen outside its mountainous environment.",
+      "cousins": [
+        "Eastern Gray Squirrel",
+        "Fox Squirrel",
+        "Red Squirrel",
+        "Western Gray Squirrel"
+      ]
+    },
+    {
+      "name": "Albino Squirrel",
+      "summary": "A rare color variation of the Eastern Gray Squirrel, featuring completely white fur.",
+      "description": "The Albino Squirrel is not a distinct species but a rare color variation of the Eastern Gray Squirrel (Sciurus carolinensis). These squirrels are completely white, with pink eyes, due to a genetic mutation that causes a lack of pigmentation. Albino Squirrels are found occasionally in various parts of North America, particularly in areas with populations of Eastern Gray Squirrels. Despite their striking appearance, they face challenges in the wild, as their white fur makes them more visible to predators.",
+      "cousins": [
+        "Eastern Gray Squirrel",
+        "Fox Squirrel",
+        "Red Squirrel"
+      ]
+    }
+  ]
+  

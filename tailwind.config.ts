@@ -15,7 +15,15 @@ export default {
           "Segoe UI Symbol",
           "Noto Color Emoji",
         ],
+        "logo": ["Potta One", "system-ui"] 
       },
+      colors: {
+        "primary": "#D9AC84",
+        "secondary": "#A67A53",
+        "tertiary": "#8C583A",
+        "text": "#402D1D",
+        "background": "#fdeddf"
+      }
     },
   },
   plugins: [],

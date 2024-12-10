@@ -4,9 +4,20 @@
 
 html,
 body {
-  @apply bg-white dark:bg-gray-950;
+  @apply bg-background text-text;
+}
 
-  @media (prefers-color-scheme: dark) {
-    color-scheme: dark;
-  }
+.sincap-content p {
+  @apply mb-5 leading-8 
+}
+.sincap-content p a {
+  @apply underline
+}
+
+.home-banner-text {
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  transform: translate(-50%, -50%);
+  @apply text-4xl text-white font-extrabold
 }
