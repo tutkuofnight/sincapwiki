@@ -20,20 +20,20 @@ export default function(){
 
     return (
         <div className="w-full flex flex-col items-center justify-center gap-10">
-            <section className="w-[500px]">
-                    <img src={sincap.fields.image.fields.file.url} alt={sincap.fields.name} className="w-auto max-h-[400px] object-contain" />
+            <section className="w-full md:w-[500px] flex justify-center">
+                    <img src={sincap.fields.image.fields.file.url} alt={sincap.fields.name} className="w-auto max-h-[400px]" />
             </section>
             <aside className="flex-1">
-                <div className="flex gap-6 items-center mb-5">
+                <div className="mb-5">
                     <h1 className="text-3xl font-bold">{sincap.fields.name}</h1>
-                    <a href={sincap.fields.referenceLink} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1">
-                        Reference Link <ArrowUpRight className="w-4 h-4" />
-                    </a>
                 </div>
                 <div className="sincap-content">
                     {documentToReactComponents(sincap.fields.about)}
                 </div>
             </aside>
+            <a href={sincap.fields.referenceLink} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1">
+                Reference Link <ArrowUpRight className="w-4 h-4" />
+            </a>
         </div>
     )
 }

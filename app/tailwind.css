@@ -19,5 +19,5 @@ body {
   left: 50%;
   top: 60%;
   transform: translate(-50%, -50%);
-  @apply text-4xl text-white font-extrabold
+  @apply md:text-4xl text-white font-extrabold
 }

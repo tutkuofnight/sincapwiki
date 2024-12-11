@@ -39,7 +39,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body>
-          <div className="p-10 md:max-w-[1230px] md:flex md:justify-center md:items-center md:flex-col md:mx-auto">
+          <div className="p-4 md:p-10 md:max-w-[1230px] md:flex md:justify-center md:items-center md:flex-col md:mx-auto">
             <Header />
             {children}
           </div>

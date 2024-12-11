@@ -3,7 +3,7 @@ import { ArrowUpRight } from "lucide-react"
 
 export default function Header(){
     return (
-        <header className="flex justify-between items-center w-full mb-10">
+        <header className="flex flex-col gap-4 md:flex-row md:gap-0 justify-between items-center w-full mb-10">
             <Link to="/">
                 <div className="flex items-center gap-3">
                     <img src="/logo.png" alt="Sincap Wiki" className="w-[100px]" />

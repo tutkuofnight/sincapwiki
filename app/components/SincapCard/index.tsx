@@ -3,7 +3,7 @@ import { Link } from "@remix-run/react";
 export default function ({ sincap } : { sincap: any }) {
   return (
     <Link to={`/sincap/${sincap.fields.slug}`}>
-      <div className="flex gap-10 mb-5 items-center">
+      <div className="flex flex-col sm:flex-row gap-10 mb-5 items-center">
         <div className="flex items-center gap-2">
           <img
             src={sincap.fields.image.fields.file.url}
