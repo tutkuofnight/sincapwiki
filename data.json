@@ -99,6 +99,18 @@
         "Fox Squirrel",
         "Red Squirrel"
       ]
+    },
+    {
+      "name": "Caucasian Squirrel",
+      "summary": "A squirrel native to the Caucasus region, known for its reddish-brown fur and bushy tail.",
+      "description": "The Caucasian Squirrel (Sciurus anomalus) is a species found primarily in the forests of the Caucasus Mountains and surrounding areas. It has a distinctive reddish-brown fur with a bushy tail, and is slightly smaller than some of its relatives. This squirrel is arboreal and spends most of its time in the trees, where it forages for food such as nuts, seeds, and fruits. The Caucasian Squirrel is primarily active during the day and is known for its agility in navigating through the forest canopy. It also stores food for the winter by hiding nuts in various locations.",
+      "cousins": [
+        "Eastern Gray Squirrel",
+        "Red Squirrel",
+        "Fox Squirrel",
+        "Turkish Squirrel",
+        "Northern Flying Squirrel"
+      ]
     }
   ]
   
